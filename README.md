@@ -34,5 +34,7 @@ TableDnD plug-in for JQuery.
 http://docs.jquery.com/License.
 
 https://www.youtube.com/watch?v=OfLvQ8KtW2g
+
 https://www.youtube.com/watch?v=pbekOEr0Wo0
+
 https://www.youtube.com/watch?v=I6IY2TqnPDA
