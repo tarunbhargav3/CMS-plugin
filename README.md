@@ -31,10 +31,17 @@ Once Activated
 
 Refrences:
 TableDnD plug-in for JQuery.
-http://docs.jquery.com/License.
 
 https://www.youtube.com/watch?v=OfLvQ8KtW2g
 
 https://www.youtube.com/watch?v=pbekOEr0Wo0
 
 https://www.youtube.com/watch?v=I6IY2TqnPDA
+
+https://github.com/ArthurGareginyan/social-media-buttons-toolbar.git
+
+https://github.com/gruz0/social-media-popup.git
+
+https://github.com/osuthorpe/Easy-Social-WP-Plugin.git
+
+https://github.com/wp-plugins/osd-social-media-sharing.git
