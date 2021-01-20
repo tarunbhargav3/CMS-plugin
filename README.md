@@ -30,6 +30,7 @@ Once Activated
 5. Now go to the page or post where you pasted the short code and reload the page. you will be able to see the social media icons. when you click on them they will redirect you to the relevant social media site.
 
 Refrences:
+
 TableDnD plug-in for JQuery.
 
 https://www.youtube.com/watch?v=OfLvQ8KtW2g
